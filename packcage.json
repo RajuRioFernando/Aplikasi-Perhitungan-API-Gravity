@@ -1,0 +1,12 @@
+{
+    "name": "PENGHITUNG API GRAVITY ",
+    "version": "1.0.0",
+    "description": "Aplikasi Untuk Menghitung API GRAVITY dan mengklasifikasikan minyak berdasarkan nilai API.",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "devDependencies": {
+      "electron": "^26.2.0"
+    }
+  }
